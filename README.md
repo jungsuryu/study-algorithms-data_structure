@@ -1,2 +1,4 @@
-# study-algorithms
-programmers algorithm practice python
+# 자료구조 및 알고리즘
+
+- 자료구조 [자료구조와 함께 배우는 알고리즘 입문(파이썬편)DO IT] 참고
+- 프로그래머스 코딩테스트 연습 파이썬 풀이 (lv0-2)
